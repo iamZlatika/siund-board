@@ -1,2 +1,2 @@
 # siund-board
-react audio
+react, useSound hook, emotion, typescript
